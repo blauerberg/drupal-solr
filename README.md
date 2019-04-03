@@ -1,2 +1,2 @@
 # drupal-solr
-Apache solr image of Docker for Drupal
+Legacy Apache solr v4 image of Docker for Drupal
